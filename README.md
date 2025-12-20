@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ImmuneLink
-- 🌱 I’m currently learning Godot/Unity
-- 👯 I’m looking to collaborate on Art master/美术大佬
-- 🤔 I’m looking for help with Art master/美术大佬
-- 💬 Ask me about My game development learning path, the development process of my tower defense game Immune Link, or my experience using Unity/Godot engines.
+- 🔭 I’m currently working on [ImmuneLink](https://github.com/Dragonzhi/ImmuneLink), [CounterStrikeGrenades](https://github.com/ThePiSquad/CounterStrikeGrenades)
+- 🌱 I’m currently learning Godot/Unity, Minecraft mod
+- 👯 I’m looking to collaborate on Art master, Music master
+- 🤔 I’m looking for help with Art master, Music master
 - 📫 How to reach me: 3248569738@qq.com
 - 😄 Pronouns: He
 
