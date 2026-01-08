@@ -1,10 +1,14 @@
-## Hi there 👋
+# Hi 👋, there
 
-- 🔭 I’m currently working on [ImmuneLink](https://github.com/Dragonzhi/ImmuneLink), [CounterStrikeGrenades](https://github.com/ThePiSquad/CounterStrikeGrenades)
-- 🌱 I’m currently learning Godot/Unity, Minecraft mod
-- 👯 I’m looking to collaborate on Art master, Music master
-- 🤔 I’m looking for help with Art master, Music master
-- 📫 How to reach me: zloong.pisquad@qq.com
-- 😄 Pronouns: He
+### A passionate developer
 
-你可以访问我的个人网站，查看我的公开项目、游戏 demo（包括我用 Godot 开发的塔防游戏）及更多详细信息：[👉个人主页](https://dragonzhi.github.io/)
+- 📫 How to reach me **zloong.pisquad@qq.com**
+
+- 👨‍💻 All of my projects are available at **[https://dragonzhi.github.io/](https://dragonzhi.github.io/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Dragonzhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Dragonzhi" height="30" width="40" /></a>
+<a href="https://discord.gg/shhHGSuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shhHGSuT" height="30" width="40" /></a>
+</p>
+
