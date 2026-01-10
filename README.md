@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-- 📫 How to reach me **zloong.pisquad@qq.com**
+- 📫 How to reach me **dzloong@foxmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://dragonzhi.github.io/](https://dragonzhi.github.io/)**
 
