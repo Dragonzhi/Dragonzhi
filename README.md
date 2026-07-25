@@ -6,4 +6,4 @@
 
 - 👨‍💻 All of my projects are available at **[https://dragonzhi.github.io/](https://dragonzhi.github.io/)**
 
-
+- 🎧 Obsessed with Vibe coding — **[Kilo Code](https://kilocode.ai)** is my daily driver
