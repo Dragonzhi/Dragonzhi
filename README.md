@@ -9,7 +9,7 @@
 
 <p>
   <samp>
-    <a href="https://dragonzhi.github.io/">Home</a> ·
+    <a href="https://dragonzhi.xyz/">Home</a> ·
     <a href="https://github.com/Dragonzhi">GitHub</a>
   </samp>
 </p>
