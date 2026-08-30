@@ -1,9 +1,21 @@
-# Hi 👋, there
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=35BFAB&center=false&pause=100000&lines=Hi,+I'm+Dragonzhi." alt="Hi"/>
+  <p>
+    <code>Gameplay Programmer</code>
+    <code>Game Dev Undergrad</code>
+    <code>Vibe Coder</code>
+  </p>
+</div>
 
-### A student developer
+<p>
+  <samp>
+    <a href="https://dragonzhi.github.io/">Home</a> ·
+    <a href="https://github.com/Dragonzhi">GitHub</a>
+  </samp>
+</p>
 
-- 📫 How to reach me **dzloong@foxmail.com**
+- I like making games, feel free to reach out
+- journey: currently learning game dev → goal: ship my own game
+- enjoy vibe coding and build awesome stuff
 
-- 👨‍💻 All of my projects are available at **[https://dragonzhi.github.io/](https://dragonzhi.github.io/)**
-
-- 🎧 Obsessed with Vibe coding
+btw beyond vscode, don't miss these vibes：#洛天依 #Minecraft (^-^)
